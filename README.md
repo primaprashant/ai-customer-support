@@ -2,6 +2,8 @@
 
 A curated collection of blogs and papers on **machine learning in production** for **customer support**.
 
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Title | Company | Year | Type
 ------|---------|------|-----
 [Using Sentiment Score to Assess Customer Service Quality](https://medium.com/airbnb-engineering/using-sentiment-score-to-assess-customer-service-quality-43434dbe199b) | Airbnb | 2021 | blog
