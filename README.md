@@ -1,6 +1,6 @@
 # ai-customer-support
 
-A curated collection of blogs and papers on **machine learing in production** for **customer support**.
+A curated collection of blogs and papers on **machine learning in production** for **customer support**.
 
 Title | Company | Year | Type
 ------|---------|------|-----
