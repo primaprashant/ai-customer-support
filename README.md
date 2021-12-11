@@ -16,6 +16,7 @@ Title | Company | Year | Type
 [Customer Support Ticket Escalation Prediction using Feature Engineering](https://arxiv.org/abs/2010.06145) | IBM | 2020 | paper
 [Analyzing HPC Support Tickets: Experience and Recommendations](https://arxiv.org/abs/2010.04321) | Los Alamos National Laboratory | 2020 | paper
 [Lessons from Contextual Bandit Learning in a Customer Support Bot](https://arxiv.org/abs/1905.02219) | Microsoft | 2019 | paper
+[How natural language processing helps LinkedIn members get support easily](https://engineering.linkedin.com/blog/2019/04/how-natural-language-processing-help-support) | LinkedIn | 2019 | blog
 [Applying Customer Feedback: How NLP & Deep Learning Improve Uber’s Maps](https://eng.uber.com/nlp-deep-learning-uber-maps/) | Uber | 2018 | blog
 [COTA: Improving Uber Customer Care with NLP & Machine Learning](https://eng.uber.com/cota/) | Uber | 2018 | blog
 [Scaling Uber’s Customer Support Ticket Assistant (COTA) System with Deep Learning](https://eng.uber.com/cota-v2/) | Uber | 2018 | blog
