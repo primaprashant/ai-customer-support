@@ -6,6 +6,7 @@ A curated collection of blogs and papers on **machine learning in production** f
 
 Title | Company | Year | Type
 ------|---------|------|-----
+[How AI Text Generation Models Are Reshaping Customer Support at Airbnb](https://medium.com/airbnb-engineering/how-ai-text-generation-models-are-reshaping-customer-support-at-airbnb-a851db0b4fa3) | Airbnb | 2022 | blog
 [Using Sentiment Score to Assess Customer Service Quality](https://medium.com/airbnb-engineering/using-sentiment-score-to-assess-customer-service-quality-43434dbe199b) | Airbnb | 2021 | blog
 [Task-Oriented Conversational AI in Airbnb Customer Support](https://medium.com/airbnb-engineering/task-oriented-conversational-ai-in-airbnb-customer-support-5ebf49169eaa) | Airbnb | 2021 | blog
 [How We Improved Agent Chat Efficiency with Machine Learning](https://engineering.grab.com/how-we-improved-agent-chat-efficiency-with-ml) | Grab |2021 | blog
